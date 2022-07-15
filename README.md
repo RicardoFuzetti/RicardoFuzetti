@@ -4,21 +4,6 @@
   <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=RicardoFuzetti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoFuzetti&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-<div style="display: inline_block"><br>
-  <p> 🧠 Knowledge </p>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</div>
-
-<div style="display: inline_block"><br>
-  <p> 📚 Learning </p>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
   
 ##
   

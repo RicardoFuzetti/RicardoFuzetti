@@ -33,6 +33,6 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-  <img width="360em" src="https://github-readme-stats.vercel.app/api?username=RicardoFuzetti&show_icons=true&title_color=E93757&icon_color=E93757&text_color=FFFFFF&bg_color=1A1A1A" alt="ricardo stats"/> &nbsp;
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoFuzetti&layout=compact&title_color=E93757&icon_color=E93757&text_color=FFFFFF&bg_color=1A1A1A" alt="ricardo most languages"/>
+  <img width="360em" src="https://github-readme-stats.vercel.app/api?username=RicardoFuzetti&show_icons=true&theme=dracula" alt="ricardo stats"/> &nbsp;
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoFuzetti&layout=compact&theme=dracula" alt="ricardo most languages"/>
 </p>

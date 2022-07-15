@@ -1,7 +1,7 @@
 # Hi, I'm Ricardo Fuzetti!
 
-<a href="https://www.linkedin.com/in/alec-eiki-nakamura-0633ab209/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=E93757" />
+<a href="https://www.linkedin.com/in/ricardo-fuzetti-6213b7196/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
 </a>
 
 <p align="left">

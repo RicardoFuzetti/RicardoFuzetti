@@ -6,9 +6,9 @@
 
 <p align="left">
   <ul>
-    <li>I’m currently working as Intern in [b2ktech](https://www.b2ktech.com.br/) </li>
+    <li>I’m currently working as Intern in b2ktech </li>
     <li>Software Engineering student at Pontifícia Universidade Católica do Paraná</li>
-    <li>📫 How to reach me: <strong>alecnakank@gmail.com</strong></li>
+
   </ul>
 </p>
 

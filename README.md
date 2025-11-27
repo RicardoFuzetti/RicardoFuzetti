@@ -7,7 +7,6 @@
 <p align="left">
   <ul>
     <li>I’m currently working as Back-End Developer at Pneufree.com </li>
-
   </ul>
 </p>
 

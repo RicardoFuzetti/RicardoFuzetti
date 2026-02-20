@@ -6,14 +6,6 @@
 
 <p align="left">
   <ul>
-    <li>I’m currently working as Back-End Developer at Pneufree.com </li>
+    <li>I’m currently working as Developer at Grupo Pneufree </li>
   </ul>
-</p>
-
-## :rocket:&nbsp; Technologies
-#### Main Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
